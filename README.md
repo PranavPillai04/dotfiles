@@ -1,1 +1,3 @@
-Dotfiles for useful configurations
+Dotfiles for useful configurations:
+  • .bashrc
+  • .vimrc
